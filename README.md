@@ -1,40 +1,130 @@
-# 👋 ¡Hola! Soy Elías Manríquez
+# 👋 Hola, soy **Elías Manríquez**
+**CTO • AI Architect • Founder • Full-Stack Engineer**
 
-Soy un **Desarrollador Fullstack** con más de 15 años de experiencia en transformación digital, liderando proyectos en sectores como **software**, **banca**, **fintech**, **educación**, **seguros**, **IoT** y **minería**. Como cofundador de **SuperApis.IO**, he impulsado el desarrollo de soluciones web y móviles utilizando **Node.js** y **tecnología blockchain**, siempre orientado a crear productos innovadores y escalables que resuelvan problemas reales.
+Construyo **plataformas digitales, productos de IA e infraestructura IoT** que escalan en producción real.  
+Tengo **+15 años** creando soluciones para **fintech, banca, retail, educación, minería, seguros e industria**, combinando **software, inteligencia artificial y hardware** en productos que mueven dinero, datos y operaciones críticas.
 
----
-
-## 🚀 Habilidades Técnicas
-
-- **Lenguajes**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-- **Backend**: ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-- **Frontend**: ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-FF4500?style=for-the-badge&logo=recharts&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-
-- **Infraestructura**: ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-- **Bases de Datos**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-- **Cloud**: ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-- **Seguridad y DevOps**: ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=let's-encrypt&logoColor=white)
+Soy **cofundador de SuperApis.io** y creador de plataformas como **Parkup**, **Flurix.ai** y soluciones white-label B2B con miles de usuarios activos.
 
 ---
 
-## 💼 Experiencia en Proyectos Clave
+## 🧠 Qué hago realmente
 
-- **Upayments**: Implementé una **billetera digital** para Caja Los Andes y otros clientes, integrando un procesador de medios de pago.
-- **Transbank**: Desarrollo de **kioskos y pasarelas de pago**.
-- **AutoExpertos**: Lidero el proyecto de transformación digital, con soluciones que incluyen integración de reservas, comunicación y servicios técnicos para talleres.
-- **Flurix.ai**: Cofundador de un asistente virtual orientado a **Customer Success** y **Data Science** para medianas y grandes empresas B2B.
+No solo escribo código.  
+**Diseño, construyo y escalo productos tecnológicos completos**:
+
+- Plataformas **SaaS B2B**
+- **Agentes de IA** que atienden clientes, procesan datos y automatizan operaciones
+- Sistemas **IoT + Cloud + IA** (hardware + software)
+- Infraestructura **cloud-native, multi-tenant y resiliente**
+
+Mi foco está en:
+> **Transformar procesos reales en sistemas digitales automatizados con IA.**
 
 ---
 
-## 🎯 Enfoque y Filosofía
+## 🚀 Especialidades
 
-Me apasiona la **innovación** y la **tecnología escalable**. Creo en los equipos colaborativos, en el uso de **Scrum** y en las prácticas ágiles para construir soluciones que contribuyan a la **economía digital** y al progreso social.
+### 🤖 Inteligencia Artificial & Automatización
+- Agentes IA (LangChain, MCP, OpenAI, Azure AI)
+- Bots conversacionales (WhatsApp, Voz, Web, CRM)
+- Clasificación, extracción, OCR, embeddings y búsqueda semántica
+- IA para soporte, ventas, cobranza, análisis y operación
+- Data pipelines para IA (SQL, Redis, Vector DB, Azure Search)
+
+### 🏗 Arquitectura & Backend
+- Arquitecturas **multi-tenant, event-driven y microservicios**
+- **NestJS, Node.js, Python**
+- APIs REST, WebSockets, GraphQL
+- Integración de pagos, CRM, ERP, IoT, CPaaS
+
+### 🧩 Frontend & Apps
+- **React, React Native**
+- Dashboards operativos y BI
+- Apps móviles B2B y B2C
+- Interfaces para agentes IA
+
+### ☁️ Cloud & DevOps
+- **Azure, AWS, Kubernetes, Docker**
+- CI/CD (Azure DevOps, GitHub Actions)
+- Observabilidad (logs, métricas, health, watchdogs)
+- Infraestructura para operación 24/7
+
+### 📡 IoT & Hardware
+- **Raspberry Pi, ESP32, RFID, BLE, 4G**
+- Sistemas offline/online con sincronización
+- Control de accesos, sensores, totems, dispositivos de campo
+- Edge computing conectado a cloud + IA
 
 ---
 
-¡Estoy abierto a colaborar en proyectos desafiantes y a contribuir con la comunidad de desarrollo! 🚀
+## 🧰 Stack Tecnológico
+
+**Lenguajes**  
+Python · Node.js · TypeScript · JavaScript · SQL  
+
+**Backend**  
+NestJS · Express · LangChain · FastAPI · TypeORM · Prisma · GraphQL  
+
+**Frontend**  
+React · React Native · Material UI · Ant Design · Dashboards BI  
+
+**Data & AI**  
+SQL Server · PostgreSQL · Redis · Vector DB · Azure AI Search · OpenAI  
+
+**Infraestructura**  
+Docker · Kubernetes · Azure · AWS · MQTT · RabbitMQ · Kafka  
+
+---
+
+## 🧩 Proyectos reales
+
+### 🚗 Parkup
+Plataforma **IoT + SaaS** para gestión de estacionamientos, accesos, pagos y operación.
+- Hardware propio (RFID, BLE, 4G, Raspberry)
+- Backend cloud
+- Apps móviles
+- IA para operación y soporte
+
+### 🤖 Flurix.ai
+Plataforma de **agentes de IA** para empresas:
+- Atención por WhatsApp, web y voz
+- Integración con CRM, pagos, reservas y ERP
+- IA para Customer Success, soporte y ventas
+
+### 💳 Upayments / Caja Los Andes
+- Billetera digital
+- Procesamiento de pagos
+- Integraciones bancarias
+
+### 🧰 AutoExpertos
+- Marketplace y operación digital para talleres
+- Reservas, pagos, tracking, CRM
+
+---
+
+## 🎯 Mi filosofía
+
+Creo en construir **productos reales**, no solo demos.
+
+> **La IA no reemplaza al negocio — lo amplifica.**  
+> **El software no es el fin — es el motor.**
+
+Trabajo con visión de **CTO & Founder**:
+- Tecnología alineada a ingresos
+- Arquitectura alineada a crecimiento
+- IA alineada a eficiencia
+
+---
+
+## 🤝 Colaboraciones
+
+Estoy abierto a:
+- Proyectos B2B con IA
+- Startups que quieran escalar
+- Equipos que necesiten arquitectura, IA y producto
+
+📬 **Hablemos.**  
+Si tienes un problema real, lo convertimos en un sistema.
+
+🚀
